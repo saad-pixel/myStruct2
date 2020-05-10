@@ -17,7 +17,6 @@ struct waterMeter {
   
   }
   
-  
 let meter = waterMeter()
 
 print (meter.customer)
